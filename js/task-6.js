@@ -10,7 +10,6 @@ inputEl.addEventListener('blur', (e) => {
 
     } else
     {
-
         inputEl.classList.add('invalid');
     }
 
